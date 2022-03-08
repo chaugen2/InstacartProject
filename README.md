@@ -12,6 +12,8 @@ _________________________________
 * Pandas
 * Seaborn 
 * NumPy
+* SciPy
+* Mathplotlib
 ________________________________
 
 ### Key Questions:

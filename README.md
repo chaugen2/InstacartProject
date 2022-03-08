@@ -32,3 +32,5 @@ ________________________________
 * Key Question 6: Are there other considerations regarding customer behaviors or demographics?
   * 6a. Do spender types and income have special considerations?
   * 6a. Is there potential with other customer demographic groups?
+
+Photo Credit: <a href="https://www.freepik.com/valeria-aksakova">Valeria Aksakova</a> on <a href="https://www.freepik.com/photos/reusable-bag">FreePik</a>

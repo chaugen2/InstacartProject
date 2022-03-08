@@ -1,10 +1,19 @@
 # Instacart Project - Customer and Spending Habits
 ### Overview:
 Instacart stakeholders want a marketing strategy to target different customers with applicable marketing campaigns.
+_________________________________
 ### Objective:
 Peform initial data and exploratory analysis of Instacart's customer data to derive insights and suggest strategies for better segmentation based on provided criteria.
+_________________________________
 ### Data Set:
 [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
+_________________________________
+### Tools:
+* Pandas
+* Seaborn 
+* NumPy
+________________________________
+
 ### Key Questions:
 * Key Question 1 : What are the busiest days of the week and hours of the day?
 * Key Question 2: Are there times of day when people spend more money?

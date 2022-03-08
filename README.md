@@ -1,21 +1,22 @@
 # Instacart Project - Customer and Spending Habits
+<img align="right" src="https://user-images.githubusercontent.com/98825216/157283444-44f73149-7984-407f-83e7-4fc6a0cbd50f.jpg" alt="Shopping Bag">
+
 ### Overview:
 Instacart stakeholders want a marketing strategy to target different customers with applicable marketing campaigns.
-_________________________________
-<img align="right" src="https://user-images.githubusercontent.com/98825216/157283444-44f73149-7984-407f-83e7-4fc6a0cbd50f.jpg" alt="Shopping Bag">
+___
 
 ### Objective:
 Peform initial data and exploratory analysis of Instacart's customer data to derive insights and suggest strategies for better segmentation based on provided criteria.
-_________________________________
+____
 ### Data Set:
 [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
-_________________________________
+____
 ### Tools:
 * Pandas
 * Seaborn 
 * NumPy
 * SciPy
-* Mathplotlib
+* MathPlotLib
 ________________________________
 
 ### Key Questions:

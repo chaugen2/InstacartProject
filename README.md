@@ -2,6 +2,8 @@
 ### Overview:
 Instacart stakeholders want a marketing strategy to target different customers with applicable marketing campaigns.
 _________________________________
+<img align="right" src="https://user-images.githubusercontent.com/98825216/157283444-44f73149-7984-407f-83e7-4fc6a0cbd50f.jpg" alt="Shopping Bag">
+
 ### Objective:
 Peform initial data and exploratory analysis of Instacart's customer data to derive insights and suggest strategies for better segmentation based on provided criteria.
 _________________________________
